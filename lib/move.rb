@@ -8,5 +8,5 @@ end
 
 def input_to_index(num)
   while num>9 && num => 0
-    puts num-1 >>{board}
+    puts num-1
   end
